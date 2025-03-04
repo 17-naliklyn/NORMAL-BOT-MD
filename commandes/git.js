@@ -123,14 +123,11 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
    *BMW MD IMPORTANT INFO* 
 ❒───────────────────❒
-*GITHUB LINK*
-> https://github.com/ibrahimaitech/BMW-MD
-
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://https://chat.whatsapp.com/DFOAMrVITD61idKoYMDVvr
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://https://chat.whatsapp.com/DFOAMrVITD61idKoYMDVvr
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
