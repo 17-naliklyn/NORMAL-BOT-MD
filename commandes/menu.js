@@ -44,7 +44,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰──────────────────❂ \n\n`;
  
     let menuMsg=`  
-  *𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒*
+  *ℕ𝔸𝕃𝕀𝕂𝕃𝕐ℕ 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒*
 `;
 
     for (const cat in coms) {
@@ -61,7 +61,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *—————✺✺✺✺—————*
 
-  *𝐏𝐎𝐏𝐊𝐈𝐃 𝐓𝐄𝐂𝐇*                                         
+  *ℕ𝔸𝕃𝕀𝕂𝕃𝕐ℕ 𝐓𝐄𝐂𝐇*                                         
 *╰═════════════❂*
 `;
 
@@ -79,7 +79,7 @@ const date = moment().format('DD/MM/YYYY');
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*popkid*" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*𝙣𝙖𝙡𝙞𝙠𝙡𝙮𝙣*" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
