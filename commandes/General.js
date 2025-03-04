@@ -55,13 +55,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "POPKID", numero: "254111385747" },
-      { nom: "᚛POPKID᚜", numero: "254732297194" },
-      { nom: "ENZO", numero: "254784115308" },
+      { nom: "naliklyn", numero: "254743576946" },
+      { nom: "naliklyn", numero: "254115258355" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO POOKID HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO NALIKLYN HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
