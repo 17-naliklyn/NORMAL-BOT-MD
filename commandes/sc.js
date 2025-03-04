@@ -34,23 +34,21 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *𝗣𝗢𝗣𝗞𝗜𝗗 𝗠𝗗 𝗜𝗡𝗙𝗢* 
+      *𝗡𝗔𝗟𝗜𝗞𝗟𝗬𝗡 𝗜𝗡𝗙𝗢* 
 ❒───────────────────❒
-*𝗚𝗜𝗧𝗛𝗨𝗕 𝗟𝗜𝗡𝗞*
-> https://github.com/Popkiddevs/NORMAL-BOT-MD
 
-*𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟*
-> https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
+*𝗠𝗬 𝗚𝗥𝗢𝗨𝗣*
+> https://chat.whatsapp.com/DFOAMrVITD61idKoYMDVvr
 ⁠
 ╭───────────────────❒
 │⏰⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│⚽ *DEV1* : *𝗣𝗢𝗣𝗞𝗜𝗗⭕*
-│⏰ *DEV2* : *𝗣𝗢𝗣𝗞𝗜𝗗*
+│⚽ *DEV1* : *𝗡𝗔𝗟𝗜𝗞𝗟𝗬𝗡*
+│⏰ *DEV2* : *𝗡𝗔𝗟𝗜𝗞𝗟𝗬𝗡*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *𝗣𝗢𝗣𝗞𝗜𝗗 𝗧𝗘𝗖𝗛*
+     *𝗡𝗔𝗟𝗜𝗞𝗟𝗬𝗡 𝗧𝗘𝗖𝗛*
 
 ❒────────────────────❒`;
 
@@ -122,14 +120,12 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
    *BMW MD IMPORTANT INFO* 
 ❒───────────────────❒
-*GITHUB LINK*
-> https://github.com/ibrahimaitech/BMW-MD
 
-*WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+*WHATSAPP GROUP*
+> https://chat.whatsapp.com/DFOAMrVITD61idKoYMDVvr
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://chat.whatsapp.com/DFOAMrVITD61idKoYMDVvr
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
