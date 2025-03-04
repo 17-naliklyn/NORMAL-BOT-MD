@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *POPKID-MD-WABOT*`
+ *NALIKLYN-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -73,7 +73,7 @@ else {
     } else {
         if(!superUser) { repondre("ATI ALIVE MZEE😂") ; return};
 
-      await   repondre("SI ATA WE UNAJUA POPKID MD HAIEZI LALA NO MATTER WHAT");
+      await   repondre("SI ATA WE UNAJUA NALIKLYN HAIEZI LALA NO MATTER WHAT");
          repondre("EBU TINGIZA KICHWA :)")
      }
  } else {
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *POPKID MD BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *NALIKLYN BOT* is alive just like you gee. ')
 
 }
     });
