@@ -1,6 +1,6 @@
 {
-  "name":"POPKID",
-  "description":"Best whatsapp bot developed by POPKID",
+  "name":"NALIKLYN",
+  "description":"Best whatsapp bot developed by NALIKLYN",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.ibb.co/LpK2MK7/1728892250720.jpg",
   "repository":"https://github.com/Popkiddevs/NORMAL-BOT-MD",
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "ℙ𝕆ℙ 𝕂𝕀𝔻"
+    "value": "NALIKLYN"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254111385747"
+    "value": "254743576946"
   },
     "WARN_COUNT":
   {
