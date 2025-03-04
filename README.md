@@ -3,7 +3,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center">                                                  naliklyn 
+<p align="center">                                                  NALIKLYN🔥
   
 
 </p>
